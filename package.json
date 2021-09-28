@@ -37,7 +37,7 @@
     "eslint-plugin-prettier": "^2.4.0",
     "eslint-plugin-react": "^7.0.1",
     "husky": "^0.13.4",
-    "intro.js": "^2.9.3",
+    "intro.js": "https://github.com/walkermalling/intro.js#cf031b256139b686c3b463b0a7b25dc2a96de888",
     "jest": "26.0.1",
     "lint-staged": "^3.6.0",
     "prettier": "^1.7.0",
